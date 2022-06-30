@@ -6,7 +6,6 @@
   "scripts": {
 		"dev": "next dev",
     "build": "vite build",
-    "dev": "vite"
   },
   "keywords": [],
   "author": "",
