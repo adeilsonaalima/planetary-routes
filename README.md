@@ -1,13 +1,19 @@
-## Running React on Repl.it
+# 🔭 Planetary
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+💾 This project is a study on:
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+- ReactJS.
+- API.
+- Import & Export.
+- Vercel & Vite (i tried NextJS, but doesn't worked).
+- And other things.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+[If you want to access it, just click here.](https://planetary-adeilsonaalima.vercel.app/)
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## Feedback
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+If you have any feedback, please let me know via adeilson.afix@gmail.com!
+
+## Authors
+
+- [Adeilson Á. A. Lima](https://www.github.com/adeilsonaalima)
