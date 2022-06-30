@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import Planetary from "./planetary/planetary.jsx"
-import "./styles/style.css"
+import Planetary from "../src/planetary/planetary.jsx"
+import "../src/styles/style.css"
 
 const container = document.getElementById("root");
 
