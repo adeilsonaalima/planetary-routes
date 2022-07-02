@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import Planetary from "./planetary/planetary.jsx"
+import Rotas from "./routes.js";
 import "./styles/style.css"
 
 const container = document.getElementById("root");
@@ -9,6 +9,6 @@ const root = createRoot(container);
 
 root.render(
   <StrictMode>
-    <Planetary />
+    <Rotas />
   </StrictMode>
 );
